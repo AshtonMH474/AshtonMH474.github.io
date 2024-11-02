@@ -16,7 +16,7 @@
 
  */
 
-const birthYear;
+// const birthYear;
 var transparent = true;
 
 var transparentDemo = true;
