@@ -5308,9 +5308,9 @@ a.credit {
   font-size: 62px;
   padding-right: 5px;
 }
-@media(max-width:600px){
+@media(max-width:576px){
   .hobbies{
-    font-size: 50px;
+    font-size:18px;
   }
 
   }
