@@ -5144,7 +5144,9 @@ Created using IcoMoon - icomoon.io
 
 .cc-profile-image a {
   position: relative; }
-
+.profileImg{
+  object-fit: cover;
+}
 .cc-profile-image a:before {
   content: "";
   border: 30px solid rgba(55, 140, 63, 0.6);
@@ -5311,6 +5313,10 @@ a.credit {
   /* justify-content: center; */
   /* align-items: center; */
 
+}
+.hobbiesGroup{
+  position: relative;
+  right: 25px;
 }
 .hobbiesTitle{
   position: relative;

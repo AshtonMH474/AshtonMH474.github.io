@@ -657,7 +657,15 @@ pre code {
 @media (min-width:1200px) {
     .container {
         max-width: 1140px
+
     }
+}
+.centerElements{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1100px;
+
 }
 
 .container-fluid {
