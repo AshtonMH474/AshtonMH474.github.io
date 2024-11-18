@@ -5308,6 +5308,12 @@ a.credit {
   font-size: 62px;
   padding-right: 5px;
 }
+@media(max-width:600px){
+  .hobbies{
+    font-size: 50px;
+  }
+
+  }
 .displayFlex{
   display: flex;
   /* justify-content: center; */
