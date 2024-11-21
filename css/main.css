@@ -5320,6 +5320,15 @@ a.credit {
   /* align-items: center; */
 
 }
+.paddingBottommSmall{
+  padding-bottom: 20px;
+}
+.paddingTopsmall{
+  padding-top: 20px;
+}
+.paddingTop{
+  padding-top: 100px;
+}
 .hobbiesGroup{
   position: relative;
   right: 25px;
